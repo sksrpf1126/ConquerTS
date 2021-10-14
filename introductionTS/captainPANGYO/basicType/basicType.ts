@@ -2,6 +2,7 @@
 // 자바스크립트는 동적으로 인터프리터에 의해 타입이 지정이 된다.
 // 그렇기에 처음 JS를 배울 때 많은 사람들이 어려움을 겪었고, 나 또한 마찬가지다.
 // 하지만 타입스크립트는 C, JAVA 처럼 정적인 타입을 제공해주기 때문에 많은 오류에서 벗어날 수 있었다.
+// 출처 : https://joshua1988.github.io/ts/
 
 let str: string = 'hello Typescript' //string type
 let num: number = 10 //number type
